@@ -77,6 +77,17 @@ export default [
     visible: true,
   },
   {
+    id: 20,
+    title: 'ERC-20 Token Standard',
+    authors: ['Fabian Vogelsteller, Vitalik Buterin'],
+    status: 'final',
+    type: 'Standards Track',
+    category: 'Networking',
+    created: '2015-12-18',
+    requires: [],
+    visible: true,
+  },
+  {
     id: 86,
     title: 'Abstraction of transaction origin and signature',
     authors: ['Vitalik Buterin'],
