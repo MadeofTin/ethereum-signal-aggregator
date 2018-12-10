@@ -10,5 +10,6 @@ One of our core principals is "Historical Data Transparency". This is because Te
 
 ### Problem
 
-While Git provides a great way to view a history over time and JSON is easy to work with it is too slow to run Tennagraph on natively. A solution is some hybrid system. [https://docs.google.com/drawings/d/e/2PACX-1vRp9R87ew8cyJKss8vleKNRyoG5mFUfqQJzY9gQL6ltGTd7PVKWiBa1dLEvJwo3ILsey-7LAu8f4kJY/pub?w=960&h=720](https://docs.google.com/drawings/d/e/2PACX-1vRp9R87ew8cyJKss8vleKNRyoG5mFUfqQJzY9gQL6ltGTd7PVKWiBa1dLEvJwo3ILsey-7LAu8f4kJY/pub?w=960&h=720) 
+While Git provides a great way to view a history over time and JSON is easy to work with it is too slow to run Tennagraph on natively. A solution is some hybrid system. 
+![Database Choices](https://docs.google.com/drawings/d/e/2PACX-1vRp9R87ew8cyJKss8vleKNRyoG5mFUfqQJzY9gQL6ltGTd7PVKWiBa1dLEvJwo3ILsey-7LAu8f4kJY/pub?w=700) 
 
